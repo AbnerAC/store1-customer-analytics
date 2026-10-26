@@ -139,5 +139,3 @@ Industrial Engineer | Data Science & Analytics
 
 ---
 
-*From data to better decisions.*
-
