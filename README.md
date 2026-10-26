@@ -1,36 +1,33 @@
 
-# Store 1 — Customer Data Science
+# Store 1 | Customer Data Science
 
-### Customer Data Preparation & Business Analysis
-**Data Science Portfolio | Project 01**
+**Customer Data Preparation & Business Analytics**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-087E8B?style=flat-square)
 ![Data Science](https://img.shields.io/badge/Data-Science-2563EB?style=flat-square)
-
-**🚧 Status: In Development | Estado: En desarrollo**
-
----
+![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-087E8B?style=flat-square)
 
 ![Store 1 — Customer Data Science](portada.png)
 
 ---
 
-## 📂 Project Notebooks | Cuadernos del proyecto
+## 🔎 Explore the Project | Explora el proyecto
 
-**Explore the Python notebooks developed throughout this project.**
+**🚧 Status: In Preparation | Estado: En preparación**
 
-**Explora los cuadernos de Python desarrollados durante este proyecto.**
+This project is being prepared as part of my Data Science portfolio. The notebooks, results, and conclusions will be added as the analysis is completed.
 
-| Project / Proyecto | Description / Descripción | Status / Estado |
+Este proyecto se está preparando como parte de mi portafolio de Ciencia de Datos. Los notebooks, resultados y conclusiones se incorporarán conforme se complete el análisis.
+
+| Project Component / Componente | Description / Descripción | Access / Acceso |
 |---|---|---|
-| 🧹 **01 — Data Preparation** | Data cleaning, standardization and validation / Limpieza, estandarización y validación de datos | ⏳ Pending |
-| 📊 **02 — Customer Analysis** | Customer information analysis and business insights / Análisis de clientes y hallazgos de negocio | ⏳ Pending |
+| **01 · Data Preparation** | Customer data cleaning, standardization and validation / Limpieza, estandarización y validación de datos | ⏳ Coming soon |
+| **02 · Customer Analysis** | Customer behavior and business analysis / Análisis de clientes y negocio | ⏳ Coming soon |
 
-**Notebooks will be linked here as each phase is completed.**
+**Note:** Direct links to the Jupyter notebooks will be available once each phase is completed.
 
-Los enlaces a los notebooks se agregarán cuando finalice cada fase.
+**Nota:** Los enlaces directos a los notebooks estarán disponibles cuando finalice cada fase.
 
 ---
 
@@ -38,29 +35,60 @@ Los enlaces a los notebooks se agregarán cuando finalice cada fase.
 
 | 🇺🇸 English | 🇲🇽 Español |
 |---|---|
-| Store 1 is an e-commerce company preparing a customer loyalty program. This project focuses on preparing and analyzing customer information to support personalized marketing strategies and data-driven business decisions. | Store 1 es una empresa de comercio electrónico que prepara un programa de fidelización. Este proyecto se enfoca en preparar y analizar información de clientes para apoyar estrategias de marketing personalizadas y decisiones de negocio basadas en datos. |
+| **Store 1** is an e-commerce company preparing the launch of a customer loyalty program. The company needs reliable and organized customer information to develop personalized marketing strategies and support business decisions. | **Store 1** es una empresa de comercio electrónico que prepara el lanzamiento de un programa de fidelización. La empresa necesita información confiable y organizada sobre sus clientes para desarrollar estrategias de marketing personalizadas y apoyar la toma de decisiones. |
+
+### Business Challenge | Problema de negocio
+
+**EN:** Customer data must be cleaned, standardized and validated before it can be used for meaningful analysis.
+
+**ES:** Los datos de clientes deben limpiarse, estandarizarse y validarse antes de utilizarlos para realizar un análisis confiable.
 
 ---
 
 ## 🎯 Project Objectives | Objetivos
 
-| 🇺🇸 Objectives | 🇲🇽 Objetivos |
+| Objective / Objetivo | Description / Descripción |
 |---|---|
-| Clean customer profiles | Limpiar perfiles de clientes |
-| Standardize customer names and ages | Estandarizar nombres y edades |
-| Calculate total spending per customer | Calcular el gasto total por cliente |
-| Validate data consistency | Validar la consistencia de los datos |
-| Prepare information for business analysis | Preparar información para el análisis de negocio |
+| **Data Cleaning / Limpieza** | Correct inconsistencies in customer records / Corregir inconsistencias en los registros |
+| **Standardization / Estandarización** | Standardize customer names and ages / Estandarizar nombres y edades |
+| **Spending Analysis / Análisis de gastos** | Calculate total spending per customer / Calcular el gasto total por cliente |
+| **Data Validation / Validación** | Review and validate data consistency / Revisar y validar la consistencia de los datos |
+| **Business Insights / Hallazgos** | Prepare information to support marketing decisions / Preparar información para decisiones de marketing |
 
 ---
 
-## 📈 Results & Insights | Resultados y hallazgos
+## ⚙️ Approach | Metodología
+
+The project is organized into two connected phases.
+
+El proyecto se organiza en dos fases relacionadas.
+
+**01 · Data Preparation | Preparación de datos**
+
+- Review customer information / Revisar los datos de clientes
+- Clean and standardize records / Limpiar y estandarizar registros
+- Calculate customer spending / Calcular gastos por cliente
+- Validate the prepared information / Validar la información preparada
+
+**02 · Customer Analysis | Análisis de clientes**
+
+- Analyze the prepared data / Analizar los datos preparados
+- Explore purchasing patterns / Explorar patrones de compra
+- Develop business insights / Desarrollar hallazgos de negocio
+
+*The methodology will be updated to reflect the work actually performed.*
+
+*La metodología se actualizará para reflejar el trabajo realmente realizado.*
+
+---
+
+## 📈 Results & Business Insights | Resultados y hallazgos
 
 **⏳ Coming Soon | Próximamente**
 
-🇺🇸 This section will present the results, relevant findings, and business conclusions after the analysis is completed.
+**EN:** This section will present the actual results, relevant findings, and business conclusions once the analysis is completed.
 
-🇲🇽 Esta sección presentará los resultados, hallazgos relevantes y conclusiones de negocio cuando finalice el análisis.
+**ES:** Esta sección presentará los resultados reales, los hallazgos relevantes y las conclusiones de negocio cuando finalice el análisis.
 
 ---
 
@@ -68,9 +96,9 @@ Los enlaces a los notebooks se agregarán cuando finalice cada fase.
 
 **⏳ Coming Soon | Próximamente**
 
-🇺🇸 Technical challenges, solutions, and lessons learned will be documented as the project progresses.
+**EN:** Technical challenges, solutions, and lessons learned will be documented here.
 
-🇲🇽 Se documentarán los desafíos técnicos, las soluciones y los aprendizajes conforme avance el proyecto.
+**ES:** Aquí se documentarán los desafíos técnicos, las soluciones y los aprendizajes obtenidos durante el proyecto.
 
 ---
 
@@ -85,6 +113,11 @@ Industrial Engineer | Data Science & Analytics
 [![GitHub](https://img.shields.io/badge/GitHub-AbnerAC-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbnerAC)
 
 ---
+
+<p align="center">
+  <i>From Data to Better Decisions</i>
+</p>
+
 
 <p align="center">
   <i>From Data to Better Decisions</i>
