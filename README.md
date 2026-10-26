@@ -14,7 +14,7 @@
 ---
 
 <!-- La imagen aparecerá cuando subamos images/cover.png -->
-![Store 1 — Customer Data Cleaning](images/cover.png)
+![Store 1 — Customer Data Science](images/banner.png)
 
 ---
 
