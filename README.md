@@ -14,8 +14,7 @@
 ---
 
 <!-- La imagen aparecerá cuando subamos images/cover.png -->
-![Store 1 — Customer Data Science](images/banner.png)
-
+![Store 1 — Customer Data Science](banner.png)
 ---
 
 ## 🌎 Project Overview | Descripción del proyecto
