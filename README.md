@@ -1,87 +1,56 @@
 
-# Store 1 — Customer Analytics
+# Store 1 — Customer Data Science
 
 ### Customer Data Preparation & Business Analysis
 **Data Science Portfolio | Project 01**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-087E8B?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-2563EB?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-087E8B?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data-Science-2563EB?style=flat-square)
 
 **🚧 Status: In Development | Estado: En desarrollo**
 
 ---
+
 ![Store 1 — Customer Data Science](portada.png)
+
+---
+
+## 📂 Project Notebooks | Cuadernos del proyecto
+
+**Explore the Python notebooks developed throughout this project.**
+
+**Explora los cuadernos de Python desarrollados durante este proyecto.**
+
+| Project / Proyecto | Description / Descripción | Status / Estado |
+|---|---|---|
+| 🧹 **01 — Data Preparation** | Data cleaning, standardization and validation / Limpieza, estandarización y validación de datos | ⏳ Pending |
+| 📊 **02 — Customer Analysis** | Customer information analysis and business insights / Análisis de clientes y hallazgos de negocio | ⏳ Pending |
+
+**Notebooks will be linked here as each phase is completed.**
+
+Los enlaces a los notebooks se agregarán cuando finalice cada fase.
+
 ---
 
 ## 🌎 Project Overview | Descripción del proyecto
 
 | 🇺🇸 English | 🇲🇽 Español |
 |---|---|
-| Store 1 is an e-commerce company preparing a customer loyalty program. This project focuses on cleaning, transforming, and analyzing customer data to support personalized marketing and better business decisions. | Store 1 es una empresa de comercio electrónico que prepara un programa de fidelización de clientes. Este proyecto consiste en limpiar, transformar y analizar datos de clientes para apoyar campañas personalizadas y mejores decisiones de negocio. |
+| Store 1 is an e-commerce company preparing a customer loyalty program. This project focuses on preparing and analyzing customer information to support personalized marketing strategies and data-driven business decisions. | Store 1 es una empresa de comercio electrónico que prepara un programa de fidelización. Este proyecto se enfoca en preparar y analizar información de clientes para apoyar estrategias de marketing personalizadas y decisiones de negocio basadas en datos. |
 
 ---
 
-## 🎯 Objectives | Objetivos
+## 🎯 Project Objectives | Objetivos
 
-| English | Español |
+| 🇺🇸 Objectives | 🇲🇽 Objetivos |
 |---|---|
 | Clean customer profiles | Limpiar perfiles de clientes |
-| Standardize names and ages | Estandarizar nombres y edades |
+| Standardize customer names and ages | Estandarizar nombres y edades |
 | Calculate total spending per customer | Calcular el gasto total por cliente |
 | Validate data consistency | Validar la consistencia de los datos |
-| Prepare data for business analysis | Preparar datos para el análisis de negocio |
-
----
-
-## 🗺️ Project Roadmap | Etapas del proyecto
-
-| Phase | Description | Status |
-|---|---|---|
-| **01 — Data Preparation** | Cleaning, standardization and validation | ⏳ Pending |
-| **02 — Customer Analysis** | Business analysis using prepared data | ⏳ Pending |
-
-The project consists of two connected phases developed across two sprints.
-
-El proyecto consta de dos fases relacionadas que se desarrollarán durante dos sprints.
-
----
-
-## 🛠️ Technologies | Tecnologías
-
-- **Python** — Data processing / Procesamiento de datos
-- **Jupyter Notebook** — Interactive analysis / Análisis interactivo
-- **GitHub** — Project documentation and version control / Documentación y control de versiones
-
----
-
-## ⚙️ Workflow | Proceso
-
-**Data Preparation → Validation → Customer Analysis → Business Insights**
-
-**Preparación → Validación → Análisis de clientes → Hallazgos de negocio**
-
----
-
-## 📁 Project Structure | Estructura
-
-Planned structure / Estructura prevista:
-
-    store1-customer-analytics/
-    |
-    |-- images/
-    |   |-- cover.png
-    |
-    |-- notebooks/
-    |   |-- 01_data_preparation.ipynb
-    |   |-- 02_customer_analysis.ipynb
-    |
-    |-- README.md
-
-The notebooks will be added as the project progresses.
-
-Los notebooks se incorporarán conforme avance el proyecto.
+| Prepare information for business analysis | Preparar información para el análisis de negocio |
 
 ---
 
@@ -89,19 +58,19 @@ Los notebooks se incorporarán conforme avance el proyecto.
 
 **⏳ Coming Soon | Próximamente**
 
-🇺🇸 Actual results, findings and conclusions will be documented after completing the analysis.
+🇺🇸 This section will present the results, relevant findings, and business conclusions after the analysis is completed.
 
-🇲🇽 Los resultados reales, hallazgos y conclusiones se documentarán al finalizar el análisis.
+🇲🇽 Esta sección presentará los resultados, hallazgos relevantes y conclusiones de negocio cuando finalice el análisis.
 
 ---
 
 ## 💡 Key Learnings | Aprendizajes
 
-**Coming Soon | Próximamente**
+**⏳ Coming Soon | Próximamente**
 
-Technical challenges, solutions and lessons learned will be documented here.
+🇺🇸 Technical challenges, solutions, and lessons learned will be documented as the project progresses.
 
-Aquí se documentarán los desafíos técnicos, las soluciones y los aprendizajes del proyecto.
+🇲🇽 Se documentarán los desafíos técnicos, las soluciones y los aprendizajes conforme avance el proyecto.
 
 ---
 
@@ -111,12 +80,13 @@ Aquí se documentarán los desafíos técnicos, las soluciones y los aprendizaje
 
 Industrial Engineer | Data Science & Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-alvarez-cabrera-44a37b20b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abner-alvarez-cabrera-44a37b20b)
 
-[![GitHub](https://img.shields.io/badge/GitHub-AbnerAC-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbnerAC)
+[![GitHub](https://img.shields.io/badge/GitHub-AbnerAC-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbnerAC)
 
 ---
 
 <p align="center">
   <i>From Data to Better Decisions</i>
 </p>
+
