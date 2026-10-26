@@ -119,7 +119,3 @@ Industrial Engineer | Data Science & Analytics
 </p>
 
 
-<p align="center">
-  <i>From Data to Better Decisions</i>
-</p>
-
