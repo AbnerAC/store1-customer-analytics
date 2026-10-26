@@ -13,8 +13,8 @@
 
 ---
 
-<!-- PORTADA: activar esta línea cuando subamos images/cover.png -->
-<!-- ![Store 1 — Customer Analytics](images/cover.png) -->
+
+![Store 1 — Customer Analytics](images/cover.png)
 
 ## 🌎 Project Overview | Descripción del proyecto
 
