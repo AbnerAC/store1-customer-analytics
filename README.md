@@ -1,5 +1,5 @@
 
-# 📊 Store 1 — Customer Analytics
+# Store 1 — Customer Analytics
 
 ### Customer Data Preparation & Business Analysis
 **Data Science Portfolio | Project 01**
@@ -13,86 +13,74 @@
 
 ---
 
+<!-- La imagen aparecerá cuando subamos images/cover.png -->
+![Store 1 — Customer Data Cleaning](images/cover.png)
 
-![Store 1 — Customer Analytics](images/cover.png)
+---
 
 ## 🌎 Project Overview | Descripción del proyecto
 
 | 🇺🇸 English | 🇲🇽 Español |
 |---|---|
-| Store 1 is an e-commerce company preparing a customer loyalty program. This project focuses on cleaning, transforming, and analyzing customer data to support personalized marketing and data-driven business decisions. | Store 1 es una empresa de comercio electrónico que prepara un programa de fidelización. Este proyecto se enfoca en limpiar, transformar y analizar datos de clientes para apoyar campañas personalizadas y decisiones de negocio basadas en datos. |
+| Store 1 is an e-commerce company preparing a customer loyalty program. This project focuses on cleaning, transforming, and analyzing customer data to support personalized marketing and better business decisions. | Store 1 es una empresa de comercio electrónico que prepara un programa de fidelización de clientes. Este proyecto consiste en limpiar, transformar y analizar datos de clientes para apoyar campañas personalizadas y mejores decisiones de negocio. |
 
 ---
 
-## 🎯 Project Objectives | Objetivos
+## 🎯 Objectives | Objetivos
 
-| 🇺🇸 Objectives | 🇲🇽 Objetivos |
+| English | Español |
 |---|---|
 | Clean customer profiles | Limpiar perfiles de clientes |
 | Standardize names and ages | Estandarizar nombres y edades |
 | Calculate total spending per customer | Calcular el gasto total por cliente |
 | Validate data consistency | Validar la consistencia de los datos |
-| Prepare information for business KPIs | Preparar información para indicadores de negocio |
+| Prepare data for business analysis | Preparar datos para el análisis de negocio |
 
 ---
 
-## 🗺️ Project Roadmap | Etapas
+## 🗺️ Project Roadmap | Etapas del proyecto
 
 | Phase | Description | Status |
 |---|---|---|
-| **01 — Data Preparation** | Customer data cleaning, standardization and validation | ⏳ Pending |
-| **02 — Customer Analysis** | Analysis of prepared customer data and business insights | ⏳ Pending |
+| **01 — Data Preparation** | Cleaning, standardization and validation | ⏳ Pending |
+| **02 — Customer Analysis** | Business analysis using prepared data | ⏳ Pending |
 
-### Phase 01 | Fase 01
+The project consists of two connected phases developed across two sprints.
 
-**Data Preparation / Preparación de datos**
-
-Prepare a customer dataset by cleaning and standardizing its information.
-
-Preparar los datos de clientes mediante procesos de limpieza y estandarización.
-
-### Phase 02 | Fase 02
-
-**Customer Analysis / Análisis de clientes**
-
-Analyze the prepared information to answer business questions.
-
-Analizar la información preparada para responder preguntas de negocio.
+El proyecto consta de dos fases relacionadas que se desarrollarán durante dos sprints.
 
 ---
 
 ## 🛠️ Technologies | Tecnologías
 
-| Technology | Purpose |
-|---|---|
-| 🐍 Python | Data manipulation and processing |
-| 📓 Jupyter Notebook | Interactive code and documentation |
-| 🐙 GitHub | Version control and project presentation |
+- **Python** — Data processing / Procesamiento de datos
+- **Jupyter Notebook** — Interactive analysis / Análisis interactivo
+- **GitHub** — Project documentation and version control / Documentación y control de versiones
 
 ---
 
 ## ⚙️ Workflow | Proceso
 
-**Data Preparation → Data Validation → Customer Analysis → Business Insights**
+**Data Preparation → Validation → Customer Analysis → Business Insights**
 
-**Preparación de datos → Validación → Análisis de clientes → Hallazgos de negocio**
+**Preparación → Validación → Análisis de clientes → Hallazgos de negocio**
 
 ---
 
-## 📁 Project Structure | Estructura del proyecto
+## 📁 Project Structure | Estructura
 
 Planned structure / Estructura prevista:
 
     store1-customer-analytics/
-    │
-    ├── images/
-    │   └── cover.png
-    │
-    ├── notebooks/
-    │   ├── 01_data_preparation.ipynb
-    │   └── 02_customer_analysis.ipynb
-    │
-    └── README.md
+    |
+    |-- images/
+    |   |-- cover.png
+    |
+    |-- notebooks/
+    |   |-- 01_data_preparation.ipynb
+    |   |-- 02_customer_analysis.ipynb
+    |
+    |-- README.md
 
 The notebooks will be added as the project progresses.
 
@@ -104,17 +92,17 @@ Los notebooks se incorporarán conforme avance el proyecto.
 
 **⏳ Coming Soon | Próximamente**
 
-🇺🇸 This section will present actual results, relevant findings, and business conclusions after the analysis is completed.
+🇺🇸 Actual results, findings and conclusions will be documented after completing the analysis.
 
-🇲🇽 Esta sección presentará los resultados reales, hallazgos relevantes y conclusiones de negocio cuando finalice el análisis.
+🇲🇽 Los resultados reales, hallazgos y conclusiones se documentarán al finalizar el análisis.
 
 ---
 
 ## 💡 Key Learnings | Aprendizajes
 
-**Coming soon | Próximamente**
+**Coming Soon | Próximamente**
 
-Technical challenges, solutions, and lessons learned will be documented here.
+Technical challenges, solutions and lessons learned will be documented here.
 
 Aquí se documentarán los desafíos técnicos, las soluciones y los aprendizajes del proyecto.
 
@@ -135,7 +123,3 @@ Industrial Engineer | Data Science & Analytics
 <p align="center">
   <i>From Data to Better Decisions</i>
 </p>
-
-
----
-
