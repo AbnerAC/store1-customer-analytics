@@ -12,7 +12,7 @@
 **🚧 Status: In Development | Estado: En desarrollo**
 
 ---
-![Store 1 — Customer Data Science](images/portada.png)
+![Store 1 — Customer Data Science](portada.png)
 ---
 
 ## 🌎 Project Overview | Descripción del proyecto
