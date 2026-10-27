@@ -1,14 +1,12 @@
 
-# Store 1 | Customer Data Science
+# Store 1 | Customer Data Cleaning
 
-**Customer Data Preparation & Business Analytics**
+**Customer Data Preparation | E-commerce Loyalty Program**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data-Science-2563EB?style=flat-square)
-![Data Cleaning](https://img.shields.io/badge/Data-Cleaning-087E8B?style=flat-square)
 
-![Store 1 — Customer Data Science](portada.png)
+![Store 1 — Customer Data Cleaning](portada.png)
 
 ---
 
